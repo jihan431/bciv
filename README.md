@@ -8,7 +8,7 @@
 <p align="center">
   <b>Developed & Maintained by</b>  
   <a href="https://github.com/Arslan-MD" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=FF0000&center=true&vCenter=true&width=500&lines=👑+ArslanMD+Official+🔥;🚀+The+Mind+Behind+IVAS+API+System;🌐+Always+Up+and+Running+⚡" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=FF0000&center=true&vCenter=true&width=500&lines=👑+Jihan Nugraha+🔥;🚀+The+Mind+Behind+IVAS+API+System;🌐+Always+Up+and+Running+⚡" />
   </a>
 </p>
 
