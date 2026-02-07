@@ -5,13 +5,6 @@
 
 <h1 align="center">🔥 IVAS SMS PANEL API 🚀 <img src="https://img.shields.io/badge/LIVE-🔥-red?style=for-the-badge" /></h1>
 
-<p align="center">
-  <b>Developed & Maintained by</b>  
-  <a href="https://github.com/Arslan-MD" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=FF0000&center=true&vCenter=true&width=500&lines=👑+Jihan Nugraha+🔥;🚀+The+Mind+Behind+IVAS+API+System;🌐+Always+Up+and+Running+⚡" />
-  </a>
-</p>
-
 ---
 
 ## ⚡ Features <img src="https://img.shields.io/badge/LIVE-🔥-red?style=for-the-badge" />
