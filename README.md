@@ -33,7 +33,7 @@
 ## ⚙️ Installation <img src="https://img.shields.io/badge/LIVE-🔥-red?style=for-the-badge" />
 
 ```bash
-git clone [https://github.com/jihan431/app-sikamu.git](https://github.com/jihan431/app-sikamu.git)
+git clone https://github.com/jihan431/app-sikamu.git](https://github.com/jihan431/app-sikamu.git
 cd app-sikamu
 pip install -r requirements.txt
 python app.py
